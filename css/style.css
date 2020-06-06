@@ -1,0 +1,62 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#par1{
+    padding-top: 10px;
+	color: white;
+	font-size: 15px;
+	text-align: justify;
+}
+#bttn{
+	text-align: left;
+}
+.rw{
+	height: auto;
+	text-align: center;
+	
+}
+#nv{
+	font-size: 14px;
+	color: black;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#nv:hover{
+	font-size: 14px;
+	background-color: dodgerblue;
+	color: white;
+	border-radius: 30px;
+}
+#icn{
+	padding-top: 12px;
+}
+#btntp{
+	margin-top: 8px;
+	color: green;
+	border-radius: 0px;
+	border: 1px solid green;
+	font-size: 12px;
+}
+#head{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#para{
+    text-align: justify;
+	width:82%;
+	letter-spacing: 0.04em;
+	font-size:15px;
+}
+#pr1{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+#shdw{
+	
+	box-shadow: 3px 3px 10px lightgrey;
+}
+#sicn{
+	border-radius: 50%;
+	background-color: mediumblue;
+}
+
